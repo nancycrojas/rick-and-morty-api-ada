@@ -1,0 +1,56 @@
+body{
+    font-family: 'Press Start 2P', cursive;
+    margin: 0;
+}
+
+nav{
+    text-align: center;
+    font-size: 40px;
+    padding: 10px;
+    margin-bottom: 40px;
+    background-color: rgb(63,10,94);
+    color: white;
+    padding: 20px 0px;
+    text-transform: uppercase;
+    box-shadow: rgba(0,0,0,0.35) 0px 5px 15px
+}
+
+h1{
+    margin: 0;
+}
+
+footer{
+    text-align: center;
+    padding: 40px 0px;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+}
+
+main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 40px 0px;
+}
+
+.tarjeta{
+    margin: 10px;
+    width: 700px;
+    background-color: rgb(43,3,90);
+    border: 1px solid rgb(88,1,88);
+    color: white;
+    border-radius: 10px;
+    display: flex;
+    overflow: hidden;
+}
+
+.info{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    justify-content: center;
+    text-align: center;
+}
+
