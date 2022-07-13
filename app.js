@@ -25,7 +25,7 @@ const pintarPersonajes = (arr) => {
                   <p>${nombre}</p>
                   <p>${gender}</p>
                   <p>${status}</p>
-                  <p>${species}/p>
+                  <p>${species}</p>
               </div>
           </div>
         `
